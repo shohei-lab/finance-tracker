@@ -1,1 +1,2 @@
-[build] command = "yarn build" build = "build"
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
